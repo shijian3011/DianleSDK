@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.name         = 'DianleSDK'
   s.version      = '3.2.1'
   s.license      =  { :type => 'MIT', :file => 'LICENSE' }
-  s.homepage     = 'https://github.com/shijian3011/AnwoSDK'
+  s.homepage     = 'https://github.com/shijian3011/DianleSDK'
   s.authors      =  { 'Health Shi' => 'shijian3011@qq.com' }
   s.summary      = '点乐积分墙iOS版SDK'
   s.source       =  { :git => 'https://github.com/shijian3011/DianleSDK.git'}
